@@ -1,0 +1,59 @@
+input {
+    background: grey
+}
+
+.book_mainDiv {
+    border: 1px solid #000000;
+    float: none;
+}
+
+.book_mainDiv img {
+    width: 97%;
+}
+
+.book_mainDiv hr {
+    width: 230px;
+}
+
+.book_mainDiv h5,
+.book_mainDiv p {
+    margin-left: 20px;
+    font-weight: 600;
+    color: black;
+
+}
+
+
+.book_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background-color: #a3fff6;
+    color: black;
+}
+
+.book_head i {
+    float: right;
+}
+
+.book_text span {
+    color: #ff7700;
+}
+
+.page-header h2 {
+    text-align: center;
+}
+
+body {
+    background-color: lightpink;
+}
+.bg-primary book_head {
+    background-color: aliceblue;
+}
+.page-header h2 {
+    color: black;
+    font-family: sans-serif;
+}
